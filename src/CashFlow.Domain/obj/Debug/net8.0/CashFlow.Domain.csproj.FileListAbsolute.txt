@@ -1,0 +1,11 @@
+G:\C#\Aulas\CashFlow\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.deps.json
+G:\C#\Aulas\CashFlow\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.dll
+G:\C#\Aulas\CashFlow\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.pdb
+G:\C#\Aulas\CashFlow\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Aulas\CashFlow\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfoInputs.cache
+G:\C#\Aulas\CashFlow\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfo.cs
+G:\C#\Aulas\CashFlow\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.CoreCompileInputs.cache
+G:\C#\Aulas\CashFlow\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.dll
+G:\C#\Aulas\CashFlow\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
+G:\C#\Aulas\CashFlow\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
+G:\C#\Aulas\CashFlow\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
