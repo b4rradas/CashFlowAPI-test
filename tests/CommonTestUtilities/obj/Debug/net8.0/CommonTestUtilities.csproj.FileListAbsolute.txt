@@ -1,0 +1,15 @@
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.deps.json
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.dll
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CommonTestUtilities.pdb
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Communication.dll
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\bin\Debug\net8.0\CashFlow.Communication.pdb
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.csproj.AssemblyReference.cache
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.GeneratedMSBuildEditorConfig.editorconfig
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.AssemblyInfoInputs.cache
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.AssemblyInfo.cs
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.csproj.CoreCompileInputs.cache
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTe.14C365E1.Up2Date
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.dll
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\refint\CommonTestUtilities.dll
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\CommonTestUtilities.pdb
+G:\C#\Aulas\CashFlow\CashFlow\tests\CommonTestUtilities\obj\Debug\net8.0\ref\CommonTestUtilities.dll
